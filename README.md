@@ -8,7 +8,7 @@ Simulasi verifikasi wajah Android berbasis web untuk keperluan edukasi, OSINT, a
 
 ### 📸 Tampilan Tools
 
-![PHISPYRATE Screenshot](https://imgur.com/b4UTFH2)
+![PHISPYRATE Screenshot](https://imgur.com/a/phispyrate-4Ha2W5Z)
 
 ---
 
