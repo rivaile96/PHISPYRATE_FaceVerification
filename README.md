@@ -62,12 +62,12 @@ pip install -r requirements.txt
 ## 🚀 Menjalankan Aplikasi
 
 ```bash
-python server.py
+python3 server.py
 ```
 
 Lalu pilih salah satu mode:
-- `1`: Ngrok (recommended, pastikan punya token)
-- `2`: LocalXpose (pastikan punya token)
+- `1`: Ngrok (recommended, pastikan punya token dan PASTE tokenmu di ngrok_token.txt)
+- `2`: LocalXpose (pastikan punya token dan PASTE di localxpose_token.txt)
 - `3`: Jalankan lokal (`http://localhost:5000`)
 
 URL publik akan tampil di terminal dan disimpan ke file `.txt`.
