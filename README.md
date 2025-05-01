@@ -1,14 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=56F7F0&background=FB16EE00&width=440&lines=PHISPYRATE+Face+Verification)](https://git.io/typing-svg)
 
-# PHISPYRATE_FaceVerification
-
 Simulasi verifikasi wajah Android berbasis web untuk keperluan edukasi, OSINT, atau penetration testing. Tool ini menampilkan antarmuka mirip autentikasi wajah Android dan dapat dijalankan secara lokal atau melalui tunneling seperti **Ngrok** atau **LocalXpose**.
 
 ---
 
 ### 📸 Tampilan Tools
 
-![PHISPYRATE Screenshot] (https://imgur.com/a/phispyrate-4Ha2W5Z)
+![Screenshot](screenshot.png)
+
 
 ---
 
