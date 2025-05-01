@@ -4,6 +4,14 @@
 
 Simulasi verifikasi wajah Android berbasis web untuk keperluan edukasi, OSINT, atau penetration testing. Tool ini menampilkan antarmuka mirip autentikasi wajah Android dan dapat dijalankan secara lokal atau melalui tunneling seperti **Ngrok** atau **LocalXpose**.
 
+---
+
+### 📸 Tampilan Tools
+
+![PHISPYRATE Screenshot](https://imgur.com/a/4Ha2W5Z)
+
+---
+
 ## 📁 Struktur Folder
 ```
 PHISPYRATE_FaceVerification/
