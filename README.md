@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&pause=1000&color=62F7EB&width=435&lines=PHISPYRATE+-+Face+Verification)](https://git.io/typing-svg)
+
 # PHISPYRATE_FaceVerification
 
 Simulasi verifikasi wajah Android berbasis web untuk keperluan edukasi, OSINT, atau penetration testing. Tool ini menampilkan antarmuka mirip autentikasi wajah Android dan dapat dijalankan secara lokal atau melalui tunneling seperti **Ngrok** atau **LocalXpose**.
@@ -34,7 +36,7 @@ PHISPYRATE_FaceVerification/
 
 1. Clone repositori:
 ```bash
-git clone https://github.com/namamu/PHISPYRATE_FaceVerification.git
+git clone https://github.com/rivaile96/PHISPYRATE_FaceVerification.git
 cd PHISPYRATE_FaceVerification
 ```
 
