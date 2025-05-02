@@ -49,7 +49,7 @@ cd PHISPYRATE_FaceVerification
 
 2. (Opsional) Buat virtual environment:
 ```bash
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate      # Linux/macOS
 venv\Scripts\activate         # Windows
 ```
