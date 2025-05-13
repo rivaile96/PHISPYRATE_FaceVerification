@@ -13,7 +13,7 @@ Simulasi verifikasi wajah Android berbasis web untuk keperluan edukasi, OSINT, a
 
 ### 🎥 Youtube Tutorial
 
-![Youtube Tutorial](https://www.youtube.com/watch?v=lrAQru-56i4)
+[![Tonton di YouTube](https://img.youtube.com/vi/lrAQru-56i4/0.jpg)](https://www.youtube.com/watch?v=lrAQru-56i4)
 
 
 ---
